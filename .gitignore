@@ -1,1 +1,6 @@
+BinaryEmbedded.launch
+.cproject
+.project
 Debug/*
+.settings/*
+Libraries/pinmapper.pincfg
